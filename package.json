@@ -1,0 +1,36 @@
+{
+  "name": "ksx-web",
+  "version": "1.0.0",
+  "description": "## Build Setup",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingsxiao/ksx-web.git"
+  },
+  "author": "wangxiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingsxiao/ksx-web/issues"
+  },
+  "homepage": "https://github.com/kingsxiao/ksx-web#readme",
+  "dependencies": {
+    "core-js": "^3.19.3",
+    "element-ui": "^2.15.6",
+    "koa": "^2.13.4",
+    "less": "^4.1.3",
+    "less-loader": "6.0.0",
+    "nuxt": "^2.15.8",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {}
+}

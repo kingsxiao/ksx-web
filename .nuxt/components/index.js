@@ -1,4 +1,4 @@
-export { default as NavBar } from '../..\\components\\nav-bar.vue'
+export { default as NavBar } from '../..\\resource\\components\\nav-bar.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

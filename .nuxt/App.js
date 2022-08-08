@@ -6,11 +6,11 @@ import NuxtError from './components/nuxt-error.vue'
 import NuxtLoading from './components/nuxt-loading.vue'
 import NuxtBuildIndicator from './components/nuxt-build-indicator'
 
-import '..\\lib\\global.css'
+import '..\\resource\\lib\\global.css'
 
-import '..\\..\\node_modules\\element-ui\\lib\\theme-chalk\\index.css'
+import '..\\node_modules\\element-ui\\lib\\theme-chalk\\index.css'
 
-import _4240f561 from '..\\layouts\\user-frame.vue'
+import _4240f561 from '..\\resource\\layouts\\user-frame.vue'
 import _6f6c098b from './layouts/default.vue'
 
 const layouts = { "_user-frame": sanitizeComponent(_4240f561),"_default": sanitizeComponent(_6f6c098b) }

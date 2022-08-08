@@ -4,10 +4,10 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _2f3c1da2 = () => interopDefault(import('..\\pages\\home\\index.vue' /* webpackChunkName: "pages/home/index" */))
-const _8cdb5c4c = () => interopDefault(import('..\\pages\\user\\login.vue' /* webpackChunkName: "pages/user/login" */))
-const _2e977e7c = () => interopDefault(import('..\\pages\\user\\register.vue' /* webpackChunkName: "pages/user/register" */))
-const _1a91b424 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _2f3c1da2 = () => interopDefault(import('..\\resource\\pages\\home\\index.vue' /* webpackChunkName: "pages/home/index" */))
+const _8cdb5c4c = () => interopDefault(import('..\\resource\\pages\\user\\login.vue' /* webpackChunkName: "pages/user/login" */))
+const _2e977e7c = () => interopDefault(import('..\\resource\\pages\\user\\register.vue' /* webpackChunkName: "pages/user/register" */))
+const _1a91b424 = () => interopDefault(import('..\\resource\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
