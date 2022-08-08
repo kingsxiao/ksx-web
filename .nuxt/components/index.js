@@ -1,4 +1,4 @@
-export { default as NavBar } from '../..\\resource\\components\\nav-bar.vue'
+export const NavBar = () => import('../..\\resource\\components\\nav-bar.vue' /* webpackChunkName: "components/nav-bar" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
