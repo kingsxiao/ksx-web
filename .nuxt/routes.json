@@ -1,0 +1,30 @@
+[
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "D:\\\\work\\\\ksx-web\\\\resource\\\\pages\\\\home\\\\index.vue",
+    "chunkName": "pages/home/index",
+    "_name": "_2f3c1da2"
+  },
+  {
+    "name": "user-login",
+    "path": "/user/login",
+    "component": "D:\\\\work\\\\ksx-web\\\\resource\\\\pages\\\\user\\\\login.vue",
+    "chunkName": "pages/user/login",
+    "_name": "_8cdb5c4c"
+  },
+  {
+    "name": "user-register",
+    "path": "/user/register",
+    "component": "D:\\\\work\\\\ksx-web\\\\resource\\\\pages\\\\user\\\\register.vue",
+    "chunkName": "pages/user/register",
+    "_name": "_2e977e7c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\work\\\\ksx-web\\\\resource\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1a91b424"
+  }
+]
